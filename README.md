@@ -21,10 +21,6 @@ This repository contains a Power BI dashboard that visualizes key insights from 
 
 - `EMS_Dashboard.pbix`: Power BI dashboard file
 
-## 📷 Screenshot
-
-*(Upload and link your dashboard screenshot here)*
-
 ## 💡 How to Use
 
 1. Download the `.pbix` file from this repo.
